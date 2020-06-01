@@ -10,12 +10,12 @@ SOME NOTES:
    images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species an hour of searching could turn up.
 
 
-  Wolf:
+  add_wolf.py:
   
    The images used were of Gray Wolves inhabiting the western US. Dimensions were the average of google results for 'dimensions of gray wolf'
 
 
-  Box_Turtle:
+  add_box_turtle.py:
   
    The images were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'
 
