@@ -7,21 +7,21 @@ SOME NOTES:
 
   Tiger:
   
-    images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species an hour of searching could turn up.
+   images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species an hour of searching could turn up.
 
 
   Wolf:
   
-    The images used were of Gray Wolves inhabiting the western US. Dimensions were the average of google results for 'dimensions of gray wolf'
+   The images used were of Gray Wolves inhabiting the western US. Dimensions were the average of google results for 'dimensions of gray wolf'
 
 
   Box_Turtle:
   
-    The images were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'
+   The images were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'
 
 
   General:
   
-    I've been using Unity game engine lately so -y is forward on all models
-    These were all constructed on the creatures left side with a mirror modifier, so it is recommened to delete the right side and apply a mirror modifier to keep symmetries when adding details (I may add in a half version of all the creatures for this purpose soon)
+   I've been using Unity game engine lately so -y is forward on all models
+   These were all constructed on the creatures left side with a mirror modifier, so it is recommened to delete the right side and apply a mirror modifier to keep symmetries when adding details (I may add in a half version of all the creatures for this purpose soon)
     
