@@ -11,7 +11,7 @@ SAMPLE:
 
 INSTALL:
  
- Under Clone/Download select the option to "download ZIP" then after downloading the files extract them. Then, simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button then navigate to where the downloaded folder with the files is located and locate the zipped folder called "Creatures" \[Creatures-Master -> Creatures-Master -> Creatures...\] and select it. Don't forget to check the box to enable the addon after installing it.
+ Under Clone/Download select the option to "download ZIP" then after downloading the files extract them. Then, simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button then navigate to where the downloaded folder with the files is located and locate the zipped folder called "Creatures" ".../Creatures-Master/Creatures-Master/Creatures/Creatures.zip" and select it. Don't forget to check the box to enable the addon after installing it.
 
 SOME NOTES:
 
