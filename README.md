@@ -12,7 +12,7 @@ SOME NOTES:
 ------------------------------------------------------------------------------------------------------------
   add_tiger.py:
   
-   images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species an hour of searching could turn up.
+   images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species a few minutes of searching could turn up.
 
 
 ------------------------------------------------------------------------------------------------------------
