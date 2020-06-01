@@ -3,13 +3,11 @@ A series of plugins for Blender for additional (Object->Add->Mesh) buttons to in
 I wanted these starter shapes and figured I'd go ahead and share them with others. This is still a work in progress so more creatures will be forthcoming (and eventually/hopefully some riggings ready to go with them) along with improvements/updates to the creatures already posted here.
 
 
-------------------------------------------------------------------------------------------------------------
 SAMPLE:
 
 ![CreaturesScreenshot](https://user-images.githubusercontent.com/50467171/83375187-09a11a00-a39c-11ea-8c29-83639bec0c94.png)
 
 
-------------------------------------------------------------------------------------------------------------
 
 INSTALL:
  
@@ -17,7 +15,7 @@ INSTALL:
 
 SOME NOTES:
 
-------------------------------------------------------------------------------------------------------------
+
   add_tiger.py:
   
    Images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species a few minutes of searching could turn up.
