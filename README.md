@@ -3,25 +3,42 @@ A series of plugins for Blender for additional (Object->Add->Mesh) buttons to in
 I wanted these starter shapes and figured I'd go ahead and share them with others. This is still a work in progress so more creatures will be forthcoming (and eventually/hopefully some riggings ready to go with them) along with improvements/updates to the creatures already posted here.
 
 
+INSTALL:
+ 
+ After downloading the files, simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button then navigate to where the file is located. 
+
 SOME NOTES:
 
-  Tiger:
+------------------------------------------------------------------------------------------------------------
+  add_tiger.py:
   
    images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species an hour of searching could turn up.
 
+
+------------------------------------------------------------------------------------------------------------
 
   add_wolf.py:
   
    The images used were of Gray Wolves inhabiting the western US. Dimensions were the average of google results for 'dimensions of gray wolf'
 
+------------------------------------------------------------------------------------------------------------
 
   add_box_turtle.py:
   
    The images were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'
 
+------------------------------------------------------------------------------------------------------------
 
   General:
   
    I've been using Unity game engine lately so -y is forward on all models
    These were all constructed on the creatures left side with a mirror modifier, so it is recommened to delete the right side and apply a mirror modifier to keep symmetries when adding details (I may add in a half version of all the creatures for this purpose soon)
+   
+-------------------------------------------------------------------------------------------------------------
+
+CreatureMenu.py
+  
+  The intended menus have not all been created yet, but here is a context menu to consolidate these add mesh buttons. It's intended to be a context menu in the 3D viewport, but I haven't put a default hot-key in it yet, I set to (alt Right Press) while testing. To do this after installing all the add-mesh addons, in Edit -> Preferences choose the Keymap tab, and expand the list items for 3D View -> Object Mode, and at the bottom of the list select the "Add New" button. For the identifier (box that probably says 'none' by default) enter "wm.call_menu" then in the name field enter "object.Creatures" and finally use the available options to choose how the context menu will be accessed.
+
+--------------------------------------------------------------------------------------------------------------
     
