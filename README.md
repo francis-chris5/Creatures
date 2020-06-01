@@ -11,7 +11,7 @@ SAMPLE:
 
 INSTALL:
  
- After downloading the files, simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button then navigate to where the file is located. Don't forget to check the box to enable the addon after installing it.
+ After downloading the files, simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button then navigate to where the zipped folder with the files is located and select it (do not unzip/extract the files). Don't forget to check the box to enable the addon after installing it.
 
 SOME NOTES:
 
