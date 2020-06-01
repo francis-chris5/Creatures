@@ -21,6 +21,7 @@ class CreatureMenu(bpy.types.Menu):
     def draw(self, context):
         layout = self.layout
         
+        
         layout.operator("mesh.add_box_turtle")
         layout.operator("mesh.add_wolf")
         layout.operator("mesh.add_tiger")
@@ -33,6 +34,7 @@ def draw_item(self, context):
     layout.menu(CreatureMenu.bl_idname)
 
 
+addon_keymaps = []
 def register():
     bpy.utils.register_class(CreatureMenu)
 
@@ -40,8 +42,6 @@ def register():
 
 def unregister():
     bpy.utils.unregister_class(CreatureMenu)
-
-
 
 if __name__ == "__main__":
     register()

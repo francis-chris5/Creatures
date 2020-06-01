@@ -36,7 +36,7 @@ def add_object(self, context):
 
 class OBJECT_OT_add_object(Operator, AddObjectHelper):
     """Create a Wolf Mesh"""
-    bl_idname = "mesh.add_wolft"
+    bl_idname = "mesh.add_wolf"
     bl_label = "Add Wolf Mesh"
     bl_options = {'REGISTER', 'UNDO'}
 
