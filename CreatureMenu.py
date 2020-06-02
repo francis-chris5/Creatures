@@ -21,11 +21,8 @@ class CreatureMenu(bpy.types.Menu):
     def draw(self, context):
         layout = self.layout
         
-        layout.operator("mesh.add_human")
-        layout.operator("mesh.add_tiger")
-        layout.operator("mesh.add_wolf")
-        layout.operator("mesh.add_box_turtle")
-        layout.operator("mesh.add_iguana")
+        layout.menu("OBJECT_MT_half_creature_menu")
+        layout.menu("OBJECT_MT_full_creature_menu")
         
         
 
@@ -34,7 +31,7 @@ def draw_item(self, context):
     layout.menu(CreatureMenu.bl_idname)
 
 
-addon_keymaps = []
+
 def register():
     bpy.utils.register_class(CreatureMenu)
     bpy.types.VIEW3D_MT_mesh_add.append(draw_item)
