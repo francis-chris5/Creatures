@@ -54,10 +54,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
   <h4>General:</h4>
   
-   <blockquote>I've been using Unity game engine lately so -y is forward on all models
-   
-   These were all constructed on the creatures left side with a mirror modifier, so it is recommened to delete the right side and apply a mirror modifier to keep symmetries when adding details (I may add in a half version of all the creatures for this purpose soon)
-   
+   <blockquote>-y is forward on all models.
    After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"</blockquote>
    
 
