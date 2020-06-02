@@ -21,6 +21,10 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 <h2>SOME NOTES:</h2>
 
 
+<h4>Full vs. Half Models</h4>
+
+ Representing living creatures these meshes all possess bilateral symmetry. The full models can be inserted to quickly get something going in a project, however, to take advantage of the symmetry it is recommended to use the half models. Insert a half model and apply a mirror modifier (see figures below), and then work on symmetrical details can be carried out simply on one half of the model. When ready click the "apply" button in the modifier and finish out the model's asymmetrical details.
+
 <h4>CreatureMenu.py</h4>
   
   <blockquote>The intended menus have not all been created yet, but here is a context menu to consolidate these add mesh buttons. It's intended to be a context menu in the 3D viewport, but I haven't put a default hot-key in it yet, I set to (alt Right Press) while testing. To do this after installing, in Edit -> Preferences choose the Keymap tab, and expand the list items for 3D View -> Object Mode, and at the bottom of the list select the "Add New" button. For the identifier (box that probably says 'none' by default) enter "wm.call_menu" then in the name field that appears after inputting the type enter "OBJECT_MT_creature_menu" and finally use the available options to choose how the context menu will be accessed.</blockquote>
@@ -55,6 +59,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
   <h4>General:</h4>
   
    <blockquote>-y is forward on all models.
+ 
    After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"</blockquote>
    
 
