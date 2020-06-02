@@ -23,7 +23,10 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 <h4>Full vs. Half Models</h4>
 
+<blockquote>
  Representing living creatures these meshes all possess bilateral symmetry. The full models can be inserted to quickly get something going in a project, however, to take advantage of the symmetry it is recommended to use the half models. Insert a half model and apply a mirror modifier (see figures below), and then work on symmetrical details can be carried out simply on one half of the model. When ready click the "apply" button in the modifier and finish out the model's asymmetrical details.
+ 
+ </blockquote>
 
 <h4>CreatureMenu.py</h4>
   
