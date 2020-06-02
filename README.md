@@ -11,7 +11,7 @@ SAMPLE:
 
 INSTALL:
  
- Under Clone/Download select the option to "download ZIP" then simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button, navigate to where the downloaded zip folder ("Creatures-Master") is located and select it without extracting the files to install all the meshes and context menu. Don't forget to check the box to enable the addon(s) after installing it.
+ Under Clone/Download select the option to "download ZIP" then simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button, navigate to where the downloaded zip folder ("Creatures-Master") is located and select it without extracting the files to install all the meshes and context menu. Don't forget to check the box to enable the addon after installing it.
 
 
 
