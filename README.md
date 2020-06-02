@@ -3,7 +3,7 @@ A series of plugins for Blender for additional (Object->Add->Mesh) buttons to in
 I wanted these starter shapes and figured I'd go ahead and share them with others. This is still a work in progress so more creatures will be forthcoming (and eventually/hopefully some riggings ready to go with them) along with improvements/updates to the creatures already posted here.
 
 
-SAMPLE:
+#SAMPLE:
 
 ![screenshot](https://user-images.githubusercontent.com/50467171/83472675-dd49d400-a455-11ea-9382-d15283ba95a0.png)
 
