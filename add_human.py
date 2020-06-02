@@ -66,7 +66,7 @@ def add_object_button(self, context):
     self.layout.operator(
         OBJECT_OT_add_object.bl_idname,
         text="Add Human",
-        icon='')
+        icon='OUTLINER_OB_MESH')
 
 
 # This allows you to right click on a button and link to documentation
