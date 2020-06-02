@@ -23,43 +23,42 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 <h4>CreatureMenu.py</h4>
   
-  The intended menus have not all been created yet, but here is a context menu to consolidate these add mesh buttons. It's intended to be a context menu in the 3D viewport, but I haven't put a default hot-key in it yet, I set to (alt Right Press) while testing. To do this after installing, in Edit -> Preferences choose the Keymap tab, and expand the list items for 3D View -> Object Mode, and at the bottom of the list select the "Add New" button. For the identifier (box that probably says 'none' by default) enter "wm.call_menu" then in the name field that appears after inputting the type enter "OBJECT_MT_creature_menu" and finally use the available options to choose how the context menu will be accessed.
+  <blockquote>The intended menus have not all been created yet, but here is a context menu to consolidate these add mesh buttons. It's intended to be a context menu in the 3D viewport, but I haven't put a default hot-key in it yet, I set to (alt Right Press) while testing. To do this after installing, in Edit -> Preferences choose the Keymap tab, and expand the list items for 3D View -> Object Mode, and at the bottom of the list select the "Add New" button. For the identifier (box that probably says 'none' by default) enter "wm.call_menu" then in the name field that appears after inputting the type enter "OBJECT_MT_creature_menu" and finally use the available options to choose how the context menu will be accessed.</blockquote>
 
---------------------------------------------------------------------------------------------------------------
+
     
 
   <h4>add_tiger.py:</h4>
   
-   Images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species of tigers a few minutes of searching could turn up.
+   <blockquote>Images of several different species of tigers were used to create this (2 Sumatran and 1 Bengal), the dimensions were an average taken across "all" species of tigers a few minutes of searching could turn up.</blockquote>
 
 
-------------------------------------------------------------------------------------------------------------
+
 
   <h4>add_wolf.py:</h4>
   
-   The images used to create this mesh were of Gray Wolves inhabiting the western US. Dimensions were the average of google results for 'dimensions of gray wolf'
+   <blockquote>The images used to create this mesh were of Gray Wolves inhabiting the western US. Dimensions were the average of google results for 'dimensions of gray wolf'</blockquote>
 
-------------------------------------------------------------------------------------------------------------
 
   <h4>add_box_turtle.py:</h4>
   
-   The images used to create this object were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'
+   <blockquote>The images used to create this object were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'</blockquote>
    
- -----------------------------------------------------------------------------------------------------------
+
  
  <h4>add_iguana.py:</h4>
-   The images were of green iguanas, and while searching for some I noticed that the length of spikes in various areas and flappy thing seem to be unique like a fingerprint to each iguana, so on the mesh I merely marked them, but that is definitely something you may want to do a quick search for and get an idea of the ranges for them when detailing an iguana model.
-   The dimensions were determined by averaging the results from searching google for 'dimensions of an iguana'
+   <blockquote>The images were of green iguanas, and while searching for some I noticed that the length of spikes in various areas and flappy thing seem to be unique like a fingerprint to each iguana, so on the mesh I merely marked them, but that is definitely something you may want to do a quick search for and get an idea of the ranges for them when detailing an iguana model.
+   The dimensions were determined by averaging the results from searching google for 'dimensions of an iguana'</blockquote>
 
-------------------------------------------------------------------------------------------------------------
+
 
   <h4>General:</h4>
   
-   I've been using Unity game engine lately so -y is forward on all models
+   <blockquote>I've been using Unity game engine lately so -y is forward on all models
    
    These were all constructed on the creatures left side with a mirror modifier, so it is recommened to delete the right side and apply a mirror modifier to keep symmetries when adding details (I may add in a half version of all the creatures for this purpose soon)
    
-   After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"
+   After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"</blockquote>
    
 
 
