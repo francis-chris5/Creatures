@@ -16,7 +16,7 @@ import bpy
 
 class CreatureMenu(bpy.types.Menu):
     bl_label = "Creature Menu"
-    bl_idname = "object.Creatures"
+    bl_idname = "OBJECT_MT_creature_menu"
 
     def draw(self, context):
         layout = self.layout
@@ -37,11 +37,13 @@ def draw_item(self, context):
 addon_keymaps = []
 def register():
     bpy.utils.register_class(CreatureMenu)
-
+    bpy.types.VIEW3D_MT_mesh_add.append(draw_item)
 
 
 def unregister():
     bpy.utils.unregister_class(CreatureMenu)
+    bpy.types.VIEW3D_MT_mesh_add.remove(draw_item)
+    
 
 if __name__ == "__main__":
     register()
