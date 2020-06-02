@@ -11,7 +11,7 @@ SAMPLE:
 
 INSTALL:
  
- Under Clone/Download select the option to "download ZIP" then after downloading the files extract them. Then, simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button then navigate to where the downloaded folder with the files is located and select either the particular mesh desired or the zipped folder called "Creatures" ".../Creatures-Master/Creatures-Master/Creatures/Creatures.zip" to install all the meshes and context menu. Don't forget to check the box to enable the addon after installing it.
+ Under Clone/Download select the option to "download ZIP" then simply open blender and go to Edit -> Preferences, and under the Add-ons tab select the "Install" button, navigate to where the downloaded zip folder ("Creatures-Master") is located and select it without extracting the files to install all the meshes and context menu, alternatively you can extract the files and install only the desired meshes. Don't forget to check the box to enable the addon(s) after installing it.
 
 SOME NOTES:
 
@@ -32,6 +32,12 @@ SOME NOTES:
   add_box_turtle.py:
   
    The images used to create this object were all of Eastern Box Turtles, Dimensions were the average of google results for 'dimensions of eastern box turtle'
+   
+ -----------------------------------------------------------------------------------------------------------
+ 
+ add_iguana.py:
+   The images were of green iguanas, and while searching for some I noticed that the length of spikes in various areas and flappy thing seem to be unique like a fingerprint to each iguana, so on the mesh I merely marked them, but that is definitely something you may want to do a quick search for and get an idea of the ranges for them when detailing an iguana model.
+   The dimensions were determined by averaging the results from searching google for 'dimensions of an iguana'
 
 ------------------------------------------------------------------------------------------------------------
 
