@@ -64,11 +64,13 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 
 
-  <h4>General:</h4>
+<h4>General:</h4>
   
-   <blockquote>-y is forward on all models.
+<blockquote>
+the negative y axis is forward on all models.
  
-   After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"</blockquote>
+After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"
+</blockquote>
    
 
 
