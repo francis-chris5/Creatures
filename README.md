@@ -5,7 +5,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 SAMPLE:
 
-![CreaturesScreenshot](https://user-images.githubusercontent.com/50467171/83375187-09a11a00-a39c-11ea-8c29-83639bec0c94.png)
+![screenshot](https://user-images.githubusercontent.com/50467171/83472355-0ae24d80-a455-11ea-8ec7-c821a4a4e177.png)
 
 
 
