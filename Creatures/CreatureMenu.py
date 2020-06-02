@@ -21,11 +21,11 @@ class CreatureMenu(bpy.types.Menu):
     def draw(self, context):
         layout = self.layout
         
-        
-        layout.operator("mesh.add_box_turtle")
-        layout.operator("mesh.add_wolf")
-        layout.operator("mesh.add_tiger")
         layout.operator("mesh.add_human")
+        layout.operator("mesh.add_tiger")
+        layout.operator("mesh.add_wolf")
+        layout.operator("mesh.add_box_turtle")
+        layout.operator("mesh.add_iguana")
         
         
 
