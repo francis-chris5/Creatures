@@ -26,6 +26,7 @@ class FullCreatureMenu(bpy.types.Menu):
         layout.operator("mesh.add_wolf")
         layout.operator("mesh.add_box_turtle")
         layout.operator("mesh.add_iguana")
+        layout.operator("mesh.add_elephant")
         
         
 
