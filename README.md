@@ -5,7 +5,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 <h2>SAMPLE:</h2>
 
-![screenshot](https://user-images.githubusercontent.com/50467171/83578884-ccf13200-a505-11ea-98e9-c802c2f1ec64.png)
+![screenshot](https://user-images.githubusercontent.com/50467171/83680058-670cb500-a5ae-11ea-93ff-616a38238161.png)
 
 
 
@@ -61,6 +61,12 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
  <h4>add_iguana.py:</h4>
    <blockquote>The images were of green iguanas, and while searching for some I noticed that the length of spikes in various areas and flappy thing seem to be unique like a fingerprint to each iguana, so on the mesh I merely marked them, but that is definitely something you may want to do a quick search for and get an idea of the ranges for them when detailing an iguana model.
    The dimensions were determined by averaging the results from searching google for 'dimensions of an iguana'</blockquote>
+   
+   
+<h4>add_elephant.py</h4>
+<blockquote>
+ The images used were all of african elephants, and the sizes were set based off the average results from searching google for "dimensions of african elephant"
+ </blockquote>
 
 
 
