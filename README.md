@@ -70,6 +70,8 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 the negative y axis is forward on all models.
  
 After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"
+
+For the smaller animals it is definitely a good idea to scale it up to work with it when adding detials, it can be easily scaled back down for usage. Zooming alone is kind of lacking on the small scales.
 </blockquote>
    
 
