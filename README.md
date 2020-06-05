@@ -76,6 +76,14 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 
 
+<h4>add_rabbit.py</h4>
+<blockquote>
+ The images used were all of cottontail rabbits, and the sizes were based off averages determined from searching google for "dimensions of a cottontail rabbit"
+ 
+ A 'ready to hop' posture was selected and the upper part of the rear leg was made a little small to keep all vertices and faces visible, this will need expanded slightly when adding details.
+ </blockquote>
+
+
 <h4>General:</h4>
   
 <blockquote>
