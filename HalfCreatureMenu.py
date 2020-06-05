@@ -28,6 +28,7 @@ class HalfCreatureMenu(bpy.types.Menu):
         layout.operator("mesh.add_half_box_turtle")
         layout.operator("mesh.add_half_iguana")
         layout.operator("mesh.add_half_elephant")
+        layout.operator("mesh.add_half_rabbit")
         
         
 
