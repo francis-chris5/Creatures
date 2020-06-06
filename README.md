@@ -5,7 +5,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 <h2>SAMPLE:</h2>
 
-![screenshot](https://user-images.githubusercontent.com/50467171/83824177-c1d40880-a6a3-11ea-9bb3-6a723f67c708.png)
+![screenshot_half](https://user-images.githubusercontent.com/50467171/83947672-7ece7e00-a7e6-11ea-9c50-af99435ea867.png)
 
 
 
@@ -24,13 +24,15 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 <h4>Full vs. Half Models</h4>
 
 <blockquote>
- Representing living creatures these meshes all possess bilateral symmetry. The full models can be inserted to quickly get something going in a project, however, to take advantage of the symmetry it is recommended to use the half models. Insert a half model and apply a mirror modifier (see figures below --the defaults should be fine, just make sure x-axis is selected), and then work on symmetrical details can be carried out simply on one half of the model. When ready click the "apply" button in the modifier and finish out the model's asymmetrical details.
+ Representing living creatures these meshes all possess bilateral symmetry. To take advantage of the symmetry only half of the model was created. To finish out the other half: Insert a half model and apply a mirror modifier (see figures below --the defaults should be fine, just make sure x-axis is selected), and then work on symmetrical details can be carried out simply on one half of the model. When ready click the "apply" button in the modifier to generate the other half of the model and finish out any asymmetrical details for the finished character.
  
  ![half_mesh_1](https://user-images.githubusercontent.com/50467171/83579334-f9597e00-a506-11ea-9d8e-9dddfbe70cae.png)
 ![half_mesh_2](https://user-images.githubusercontent.com/50467171/83579335-f9f21480-a506-11ea-8974-11e8b9fa2e76.png)
 ![half_mesh_3](https://user-images.githubusercontent.com/50467171/83579337-f9f21480-a506-11ea-929b-ca4f9a35c1f9.png)
 ![half_mesh_4](https://user-images.githubusercontent.com/50467171/83579340-fa8aab00-a506-11ea-8f20-ae2962f9ca73.png)
 ![half_mesh_5](https://user-images.githubusercontent.com/50467171/83579342-fa8aab00-a506-11ea-8f78-2cd66f05dcfe.png)
+![half_mesh_6](https://user-images.githubusercontent.com/50467171/83948247-f2be5580-a7e9-11ea-9735-fbf9c25a23fb.png)
+![half_mesh_7](https://user-images.githubusercontent.com/50467171/83948249-f520af80-a7e9-11ea-9e08-1df12479d0a2.png)
  </blockquote>
 
 <h4>CreatureMenu.py</h4>
@@ -89,9 +91,9 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 <blockquote>
 the negative y axis is forward on all models.
  
-After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"
+After adding the mesh to the 3D View area it is highly recommended to go to the object menu and select "shade smooth"
 
-For the smaller animals it is definitely a good idea to scale it up to work with it when adding detials, it can be easily scaled back down for usage. Zooming alone is kind of lacking on the small scales.
+For the smaller animals it is definitely a good idea to scale it up to work with when adding detials, it can be easily scaled back down for usage. Zooming alone is kind of lacking on the small scales. While testing I changed the model's scale factor to 5.0 on all axes and after completing changed them back to 1.0 to get the actual size of the model.
 </blockquote>
    
 

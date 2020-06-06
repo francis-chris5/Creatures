@@ -21,8 +21,9 @@ class CreatureMenu(bpy.types.Menu):
     def draw(self, context):
         layout = self.layout
         
-        layout.menu("OBJECT_MT_half_creature_menu")
-        layout.menu("OBJECT_MT_full_creature_menu")
+        layout.menu("OBJECT_MT_mammal_menu")
+        layout.menu("OBJECT_MT_amphibian_menu")
+        layout.menu("OBJECT_MT_reptile_menu")
         
         
 
