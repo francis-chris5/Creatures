@@ -24,7 +24,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 <h4>Full vs. Half Models</h4>
 
 <blockquote>
- Representing living creatures these meshes all possess bilateral symmetry. The full models can be inserted to quickly get something going in a project, however, to take advantage of the symmetry it is recommended to use the half models. Insert a half model and apply a mirror modifier (see figures below --the defaults should be fine, just make sure x-axis is selected), and then work on symmetrical details can be carried out simply on one half of the model. When ready click the "apply" button in the modifier and finish out the model's asymmetrical details.
+ Representing living creatures these meshes all possess bilateral symmetry. To take advantage of the symmetry only half of the model was created. To finish out the other half: Insert a half model and apply a mirror modifier (see figures below --the defaults should be fine, just make sure x-axis is selected), and then work on symmetrical details can be carried out simply on one half of the model. When ready click the "apply" button in the modifier to generate the other half of the model and finish out any asymmetrical details for the finished character.
  
  ![half_mesh_1](https://user-images.githubusercontent.com/50467171/83579334-f9597e00-a506-11ea-9d8e-9dddfbe70cae.png)
 ![half_mesh_2](https://user-images.githubusercontent.com/50467171/83579335-f9f21480-a506-11ea-8974-11e8b9fa2e76.png)
@@ -89,9 +89,9 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 <blockquote>
 the negative y axis is forward on all models.
  
-After adding the mesh to the 3D View area make sure to go to the object menu and select "shade smooth"
+After adding the mesh to the 3D View area it is highly recommended to go to the object menu and select "shade smooth"
 
-For the smaller animals it is definitely a good idea to scale it up to work with it when adding detials, it can be easily scaled back down for usage. Zooming alone is kind of lacking on the small scales.
+For the smaller animals it is definitely a good idea to scale it up to work with when adding detials, it can be easily scaled back down for usage. Zooming alone is kind of lacking on the small scales. While testing I changed the model's scale factor to 5.0 on all axes and after completing changed them back to 1.0 to get the actual size of the model.
 </blockquote>
    
 
