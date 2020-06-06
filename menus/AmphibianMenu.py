@@ -15,7 +15,7 @@ import bpy
 
 
 class AmphibianMenu(bpy.types.Menu):
-    bl_label = "Amphibian Menu"
+    bl_label = "Amphibians"
     bl_idname = "OBJECT_MT_amphibian_menu"
 
     def draw(self, context):

@@ -15,7 +15,7 @@ import bpy
 
 
 class MammalMenu(bpy.types.Menu):
-    bl_label = "Mammal Menu"
+    bl_label = "Mammals"
     bl_idname = "OBJECT_MT_mammal_menu"
 
     def draw(self, context):

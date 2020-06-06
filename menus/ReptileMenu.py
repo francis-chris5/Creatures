@@ -15,7 +15,7 @@ import bpy
 
 
 class ReptileMenu(bpy.types.Menu):
-    bl_label = "Reptile Menu"
+    bl_label = "Reptiles"
     bl_idname = "OBJECT_MT_reptile_menu"
 
     def draw(self, context):
