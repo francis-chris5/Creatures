@@ -10,7 +10,7 @@ bl_info = {
     "category": "Add Mesh",
 }
 
-moduleName = ["mammals.add_human", "mammals.add_tiger", "mammals.add_wolf", "amphibians.add_box_turtle", "reptiles.add_iguana", "mammals.add_elephant",  "mammals.add_rabbit", "mammals.add_half_human", "mammals.add_half_tiger", "mammals.add_half_wolf", "amphibians.add_half_box_turtle", "reptiles.add_half_iguana", "mammals.add_half_elephant", "mammals.add_half_rabbit", "menus.CreatureMenu", "menus.FullCreatureMenu", "menus.HalfCreatureMenu"]
+moduleName = ["mammals.full.add_human", "mammals.full.add_tiger", "mammals.full.add_wolf", "amphibians.full.add_box_turtle", "reptiles.full.add_iguana", "mammals.full.add_elephant",  "mammals.full.add_rabbit", "mammals.half.add_half_human", "mammals.half.add_half_tiger", "mammals.half.add_half_wolf", "amphibians.half.add_half_box_turtle", "reptiles.half.add_half_iguana", "mammals.half.add_half_elephant", "mammals.half.add_half_rabbit", "menus.CreatureMenu", "menus.FullCreatureMenu", "menus.HalfCreatureMenu"]
 
 import sys
 import importlib
