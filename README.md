@@ -31,8 +31,6 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 ![half_mesh_3](https://user-images.githubusercontent.com/50467171/83579337-f9f21480-a506-11ea-929b-ca4f9a35c1f9.png)
 ![half_mesh_4](https://user-images.githubusercontent.com/50467171/83579340-fa8aab00-a506-11ea-8f20-ae2962f9ca73.png)
 ![half_mesh_5](https://user-images.githubusercontent.com/50467171/83579342-fa8aab00-a506-11ea-8f78-2cd66f05dcfe.png)
-![half_mesh_6](https://user-images.githubusercontent.com/50467171/83948179-965b3600-a7e9-11ea-9097-6b51555ebbdc.png)
-![half_mesh_7](https://user-images.githubusercontent.com/50467171/83948183-9a875380-a7e9-11ea-97e3-a6463887fadd.png)
  </blockquote>
 
 <h4>CreatureMenu.py</h4>
