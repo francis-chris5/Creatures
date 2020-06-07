@@ -10,7 +10,7 @@ bl_info = {
     "category": "Add Mesh",
 }
 
-moduleName = ["mammals.add_human", "mammals.add_tiger", "mammals.add_wolf", "amphibians.add_box_turtle", "reptiles.add_iguana", "mammals.add_elephant",  "mammals.add_rabbit", "menus.CreatureMenu", "menus.MammalMenu", "menus.AmphibianMenu", "menus.ReptileMenu"]
+moduleName = ["mammals.add_human", "mammals.add_tiger", "mammals.add_wolf", "amphibians.add_box_turtle", "reptiles.add_iguana", "mammals.add_elephant",  "mammals.add_rabbit", "amphibians.add_bullfrog", "menus.CreatureMenu", "menus.MammalMenu", "menus.AmphibianMenu", "menus.ReptileMenu"]
 
 import sys
 import importlib

@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Add Box_Turtule",
+    "name": "Add Box_Turtle",
     "author": "Christopher S. Francis",
     "version": (1, 0),
     "blender": (2, 80, 0),

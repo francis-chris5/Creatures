@@ -22,6 +22,7 @@ class AmphibianMenu(bpy.types.Menu):
         layout = self.layout
 
         layout.operator("mesh.add_box_turtle")
+        layout.operator("mesh.add_bullfrog")
         
         
 
