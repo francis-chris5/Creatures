@@ -5,7 +5,7 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
 
 <h2>SAMPLE:</h2>
 
-![screenshot_half](https://user-images.githubusercontent.com/50467171/83947672-7ece7e00-a7e6-11ea-9c50-af99435ea867.png)
+![screenshot](https://user-images.githubusercontent.com/50467171/83958606-c1717400-a841-11ea-8fcb-c87571796221.png)
 
 
 
@@ -83,6 +83,15 @@ I wanted these starter shapes and figured I'd go ahead and share them with other
  The images used were all of cottontail rabbits, and the sizes were based off averages determined from searching google for "dimensions of a cottontail rabbit"
  
  A 'ready to hop' posture was selected and the upper part of the rear leg was made a little small to keep all vertices and faces visible, this will need expanded slightly when adding details.
+ </blockquote>
+ 
+ 
+ <h4>add_bullfrog.py</h4>
+ <blockquote>
+ The images used were all of American Bullfrogs, and sizes likewise were determined by searching google for "average dimensions of american bullfrog"
+ 
+ To put it in the normal relaxed position for a bullfrog the rear legs were made a little thin so that all faces and vertices would be visible, these will need thickened slightly (pressed together for this posture) when detailing a model.
+ 
  </blockquote>
 
 
