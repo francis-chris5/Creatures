@@ -1,6 +1,6 @@
 # Creatures
 <p>A series of plugins for Blender for additional (Object->Add->Mesh) buttons to insert starter shapes for a number of animals: sized and proportioned accurately so that artists can focus more time on adding details.
-I wanted these starter shapes and figured I'd go ahead and share them with others. This is still a work in progress so more creatures will be forthcoming (and eventually/hopefully some riggings ready to go with them) along with improvements/updates to the creatures already posted here.</p>
+I wanted these starter shapes and figured I'd go ahead and share them with others. This is still a work in progress so more creatures will be forthcoming (and eventually/hopefully some riggings ready to go with them) and perhaps with improvements/updates to the creatures already posted here.</p>
 
 
 <h2>SAMPLE:</h2>
