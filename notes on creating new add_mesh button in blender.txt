@@ -1,0 +1,25 @@
+
+
+
+######################################################
+
+	To create a < object -> add -> Human Mesh > plugin for blender, opened addon template in text editor, customized the naming data strings, then put the commands below in the python console to write the vertices and faces of the mesh into the script, run the script to get the button (add plugin from file to keep the button around).
+		** note **
+			1.) the model must be opened and selected when entering the list comprehension
+			2.) the write function writes to the cursor's current location (file must be named first)
+			3.) place a copy of the add_{creature}.py script into the appropriate folder
+			3.) add to moduleName list in init.py: "folderName.scriptName"
+			
+			
+
+######################################################
+
+
+
+EXAMPLE OF COMMAND PROMPT INSTRUCTIONS TO CAPTURE MESH:
+humanVertices = [vert.co for vert in C.object.data.vertices]
+D.texts['add_humanoid.py'].write(humanVertices.__repr__())
+humanFaces = [[vert for vert in face.vertices] for face in C.object.data.polygons]
+D.texts['add_human.py'].write(humanFaces.__repr__())
+
+
